@@ -29,4 +29,7 @@ the reccomendation and code pattern needs to be revised
 
 **Dhiraj Udare**
 Data Analyst
-dhirajudare123@gmail.com | https://www.linkedin.com/in/dhiraj-udare-725419256
+
+dhirajudare123@gmail.com 
+
+https://www.linkedin.com/in/dhiraj-udare-725419256
